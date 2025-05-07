@@ -1,0 +1,919 @@
+{
+  "entities": {
+    "Q133999044": {
+      "pageid": 127869131,
+      "ns": 0,
+      "title": "Q133999044",
+      "lastrevid": 2345792223,
+      "modified": "2025-05-07T20:02:24Z",
+      "type": "item",
+      "id": "Q133999044",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "2025 papal conclave"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "Конклав 2025 года"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "conclave de 2025"
+        },
+        "de": {
+          "language": "de",
+          "value": "Konklave 2025"
+        },
+        "sk": {
+          "language": "sk",
+          "value": "Konkláve 2025"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "2025-ös pápai konklávé"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "2025年ローマ教皇選挙"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "conclave de 2025"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "Конклав 2025"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "conclaaf van 2025"
+        },
+        "es": {
+          "language": "es",
+          "value": "cónclave de 2025"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "2025년 콘클라베"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "Conclave de 2025"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "2025年教宗选举"
+        },
+        "sat": {
+          "language": "sat",
+          "value": "᱒᱐᱒᱕ ᱯᱳᱯ ᱥᱮᱱᱮᱞᱮᱫ"
+        },
+        "sl": {
+          "language": "sl",
+          "value": "konklave 2025"
+        },
+        "eo": {
+          "language": "eo",
+          "value": "Konklavo 2025"
+        },
+        "it": {
+          "language": "it",
+          "value": "conclave del 2025"
+        },
+        "be-tarask": {
+          "language": "be-tarask",
+          "value": "Канкляў-2025"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "pavevalget 2025"
+        },
+        "pt-br": {
+          "language": "pt-br",
+          "value": "conclave de 2025"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "Konklawe 2025"
+        },
+        "vi": {
+          "language": "vi",
+          "value": "Mật nghị Hồng y 2025"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "konkláve z roku 2025"
+        },
+        "id": {
+          "language": "id",
+          "value": "Konklaf 2025"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "Konklaven 2025"
+        },
+        "he": {
+          "language": "he",
+          "value": "קונקלווה 2025"
+        },
+        "da": {
+          "language": "da",
+          "value": "Konklavet 2025"
+        },
+        "lt": {
+          "language": "lt",
+          "value": "2025 m. konklava"
+        },
+        "tl": {
+          "language": "tl",
+          "value": "Konklabeng Pampapa ng 2025"
+        },
+        "ro": {
+          "language": "ro",
+          "value": "Conclavul din 2025"
+        },
+        "el": {
+          "language": "el",
+          "value": "Παπικό Κονκλάβιο του 2025"
+        },
+        "ga": {
+          "language": "ga",
+          "value": "Comhthionól cairdinéal 2025"
+        },
+        "th": {
+          "language": "th",
+          "value": "การประชุมเลือกสันตะปาปา ค.ศ. 2025"
+        },
+        "et": {
+          "language": "et",
+          "value": "2025. aasta konklaav"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "Vuoden 2025 konklaavi"
+        },
+        "ms": {
+          "language": "ms",
+          "value": "Konklaf kepausan 2025"
+        },
+        "hr": {
+          "language": "hr",
+          "value": "Papinska konklava 2025."
+        },
+        "eu": {
+          "language": "eu",
+          "value": "2025eko konklabea"
+        }
+      },
+      "descriptions": {
+        "fr": {
+          "language": "fr",
+          "value": "conclave prévu à la suite de la mort du pape François"
+        },
+        "sk": {
+          "language": "sk",
+          "value": "Pápežské konkláve v roku 2025"
+        },
+        "de": {
+          "language": "de",
+          "value": "Papstwahl"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "Pausverkiezing 2025"
+        },
+        "es": {
+          "language": "es",
+          "value": "cónclave convocado para elegir al Papa que sucederá a Francisco"
+        },
+        "en": {
+          "language": "en",
+          "value": "election of the sucessor of Pope Francis in 2025"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "Conclave per escollir el successor del Papa Francesc el 2025"
+        },
+        "sat": {
+          "language": "sat",
+          "value": "᱒᱐᱒᱕ ᱨᱮ ᱯᱳᱯ ᱯᱷᱨᱟᱱᱥᱤᱥ ᱨᱮᱱ ᱟᱜᱟᱢ ᱯᱤᱲᱦᱤ ᱵᱟᱪᱷᱟᱣ"
+        },
+        "sl": {
+          "language": "sl",
+          "value": "konklave za izvolitev naslednika papeža Frančiška leta 2025"
+        },
+        "be-tarask": {
+          "language": "be-tarask",
+          "value": "выбары пераемніка Папы рымскага Францішка"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "valget av pave Frans’ etterfølger"
+        },
+        "it": {
+          "language": "it",
+          "value": "elezione papale"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "教宗方濟各死後的教宗選舉"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "wybór papieża w maju 2025"
+        },
+        "eo": {
+          "language": "eo",
+          "value": "baloto en majo 2025 por elekti la posteulon de papo Francisko"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "vaali paavin valitsemiseksi vuonna 2025"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "выборы 267-го папы римского"
+        },
+        "id": {
+          "language": "id",
+          "value": "pemilihan pengganti Paus Fransiskus pada tahun 2025"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "valsammanträde för val av Romersk-katolska kyrkans 267:e påve"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "2025年5月に行われる予定のコンクラーベ"
+        },
+        "eu": {
+          "language": "eu",
+          "value": "aita santuaren hauteskundea"
+        }
+      },
+      "aliases": {
+        "be-tarask": [
+          {
+            "language": "be-tarask",
+            "value": "Папскі канкляў-2025"
+          }
+        ],
+        "nb": [
+          {
+            "language": "nb",
+            "value": "konklavet 2025"
+          }
+        ],
+        "vi": [
+          {
+            "language": "vi",
+            "value": "Mật viện 2025"
+          }
+        ]
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "b4c799a51fa69874bb37f8ef94e67eefcd034d5c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 186431,
+                  "id": "Q186431"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q133999044$beaa587c-4ba1-9417-a4db-78a2def08cc1",
+            "rank": "normal"
+          }
+        ],
+        "P155": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P155",
+              "hash": "83ca66312157e5bef9c8cf5a298f019a19b9c362",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4422669,
+                  "id": "Q4422669"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q133999044$8c144db1-4700-1882-7a12-2d7f69594b7e",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "03cf5bfb583ce4380d2b9fe7c9c6c96a34b289b8",
+              "datavalue": {
+                "value": "Sede vacante.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q133999044$ca949e6c-4156-0085-e25c-08467703a035",
+            "rank": "normal"
+          }
+        ],
+        "P973": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P973",
+              "hash": "95b9616570af6d083b49cbe5549ae3c724fd5121",
+              "datavalue": {
+                "value": "https://www.20minutos.es/internacional/ahora-que-asi-es-protocolo-vaticano-tras-fallecimiento-un-papa-eleccion-sucesor-silla-san-pedro-5685298/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "ffe70325d10cfc55f0dca807ed80ca0b5b97c472",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1321,
+                      "id": "Q1321"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q133999044$5bcb1618-4188-b48d-dcfb-ee8bb05c8203",
+            "rank": "normal"
+          }
+        ],
+        "P276": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P276",
+              "hash": "7ac05943f9dbba38a69dd49ed69001a91df1c483",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2943,
+                  "id": "Q2943"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q133999044$b234c873-4c77-2aee-c0c1-022bc96090d0",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "d79294f8761b15d50810c238184b5c36b47a45be",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 237,
+                  "id": "Q237"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q133999044$d7b7a744-46b2-f8a8-7f2e-09d2ad975007",
+            "rank": "normal"
+          }
+        ],
+        "P580": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "1af361812b5db73b27ad594e54ce7af42fca62e6",
+              "datavalue": {
+                "value": {
+                  "time": "+2025-05-07T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q133999044$03249f38-414a-85a9-a2aa-0acec26f0108",
+            "rank": "normal"
+          }
+        ],
+        "P910": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P910",
+              "hash": "a5a129187b1b673db89c75c5c39301e383d1afc8",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 134025368,
+                  "id": "Q134025368"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q133999044$d63d0c32-4554-1fd3-35b4-b4a4f6fb7c69",
+            "rank": "normal"
+          }
+        ],
+        "P140": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P140",
+              "hash": "1d37cef459ae3310e8856a343b4f5d0ceaee71e2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1841,
+                  "id": "Q1841"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q133999044$86ce4180-4a76-8096-a656-fe90aa4c5d9c",
+            "rank": "normal"
+          }
+        ],
+        "P1001": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1001",
+              "hash": "9b66677fd35a5d51eb39159981aad6cbede792c9",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 237,
+                  "id": "Q237"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q133999044$59d677b4-421e-aba9-6f41-d7dde1915836",
+            "rank": "normal"
+          }
+        ],
+        "P710": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P710",
+              "hash": "8e70683bf365a0ccedd4d002af66554adcda4c5e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 132706033,
+                  "id": "Q132706033"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q133999044$7a829907-4f90-3aaa-9a20-dc9f8ac3986e",
+            "rank": "deprecated"
+          }
+        ],
+        "P541": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P541",
+              "hash": "864aa7fbb31f800e2d4e361fc1a98410b4f2cb63",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19546,
+                  "id": "Q19546"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q133999044$22a89db0-4f6d-ebb3-643c-5b81a86a7566",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "45dfd36d967678e4f570ae23314cc4326a6ac4a1",
+              "datavalue": {
+                "value": "Papal conclave of 2025",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q133999044$804d63a9-4fb1-a3d5-aea4-cdf3b1ecf858",
+            "rank": "normal"
+          }
+        ],
+        "P92": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P92",
+              "hash": "5134499f319f5a0e923cd804c8dbce1a33e1f2d5",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 613882,
+                  "id": "Q613882"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q133999044$7c8cc576-461a-5af6-cf91-e03ef0c98eba",
+            "rank": "normal"
+          }
+        ],
+        "P585": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "22efcef23f2150994668550a1f67ce544b2cab3b",
+              "datavalue": {
+                "value": {
+                  "time": "+2025-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q133999044$ee7ec72f-4f94-93ac-e02f-8dc8fa1a9865",
+            "rank": "normal"
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "ca1ac3bde8c6087b35e4a19dea0a269500d13771",
+              "datavalue": {
+                "value": "/g/11md14dkpv",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q133999044$8CA69114-85E3-4464-9309-AC096DD6E08D",
+            "rank": "normal"
+          }
+        ],
+        "P2354": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2354",
+              "hash": "57386f74c3c7336f309b80d5809e19fe45be5721",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 132706033,
+                  "id": "Q132706033"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "a59430f615ee780654e713fb2d541ea4e2bd784b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 56512863,
+                      "id": "Q56512863"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3831"
+            ],
+            "id": "Q133999044$8cb02b34-45c2-957f-6871-ec4e6a84c09c",
+            "rank": "normal"
+          }
+        ],
+        "P828": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P828",
+              "hash": "24fa95fde83a54f13ea90a0dd605cc7135a4d897",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 133999690,
+                  "id": "Q133999690"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q133999044$d744a254-45ab-b45b-179c-7731173d04f5",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "cawiki": {
+          "site": "cawiki",
+          "title": "Conclave de 2025",
+          "badges": [],
+          "url": "https://ca.wikipedia.org/wiki/Conclave_de_2025"
+        },
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Konkláve v roce 2025",
+          "badges": [],
+          "url": "https://cs.wikipedia.org/wiki/Konkl%C3%A1ve_v_roce_2025"
+        },
+        "dawiki": {
+          "site": "dawiki",
+          "title": "Konklavet 2025",
+          "badges": [],
+          "url": "https://da.wikipedia.org/wiki/Konklavet_2025"
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Konklave 2025",
+          "badges": [],
+          "url": "https://de.wikipedia.org/wiki/Konklave_2025"
+        },
+        "elwiki": {
+          "site": "elwiki",
+          "title": "Παπικό Κονκλάβιο του 2025",
+          "badges": [],
+          "url": "https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CF%80%CE%B9%CE%BA%CF%8C_%CE%9A%CE%BF%CE%BD%CE%BA%CE%BB%CE%AC%CE%B2%CE%B9%CE%BF_%CF%84%CE%BF%CF%85_2025"
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "2025 papal conclave",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/2025_papal_conclave"
+        },
+        "eowiki": {
+          "site": "eowiki",
+          "title": "Konklavo 2025",
+          "badges": [],
+          "url": "https://eo.wikipedia.org/wiki/Konklavo_2025"
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Cónclave de 2025",
+          "badges": [],
+          "url": "https://es.wikipedia.org/wiki/C%C3%B3nclave_de_2025"
+        },
+        "etwiki": {
+          "site": "etwiki",
+          "title": "2025. aasta konklaav",
+          "badges": [],
+          "url": "https://et.wikipedia.org/wiki/2025._aasta_konklaav"
+        },
+        "euwiki": {
+          "site": "euwiki",
+          "title": "2025eko konklabea",
+          "badges": [],
+          "url": "https://eu.wikipedia.org/wiki/2025eko_konklabea"
+        },
+        "fawiki": {
+          "site": "fawiki",
+          "title": "مجمع انتخاب پاپ ۲۰۲۵",
+          "badges": [],
+          "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D8%B9_%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8_%D9%BE%D8%A7%D9%BE_%DB%B2%DB%B0%DB%B2%DB%B5"
+        },
+        "fiwiki": {
+          "site": "fiwiki",
+          "title": "Vuoden 2025 konklaavi",
+          "badges": [],
+          "url": "https://fi.wikipedia.org/wiki/Vuoden_2025_konklaavi"
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Conclave de 2025",
+          "badges": [],
+          "url": "https://fr.wikipedia.org/wiki/Conclave_de_2025"
+        },
+        "gawiki": {
+          "site": "gawiki",
+          "title": "Comhthionól cairdinéal 2025",
+          "badges": [],
+          "url": "https://ga.wikipedia.org/wiki/Comhthion%C3%B3l_cairdin%C3%A9al_2025"
+        },
+        "hewiki": {
+          "site": "hewiki",
+          "title": "קונקלווה 2025",
+          "badges": [],
+          "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%A0%D7%A7%D7%9C%D7%95%D7%95%D7%94_2025"
+        },
+        "hrwiki": {
+          "site": "hrwiki",
+          "title": "Papinska konklava 2025.",
+          "badges": [],
+          "url": "https://hr.wikipedia.org/wiki/Papinska_konklava_2025."
+        },
+        "huwiki": {
+          "site": "huwiki",
+          "title": "2025-ös pápai konklávé",
+          "badges": [],
+          "url": "https://hu.wikipedia.org/wiki/2025-%C3%B6s_p%C3%A1pai_konkl%C3%A1v%C3%A9"
+        },
+        "idwiki": {
+          "site": "idwiki",
+          "title": "Konklaf 2025",
+          "badges": [],
+          "url": "https://id.wikipedia.org/wiki/Konklaf_2025"
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "Conclave del 2025",
+          "badges": [],
+          "url": "https://it.wikipedia.org/wiki/Conclave_del_2025"
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "2025年ローマ教皇選挙",
+          "badges": [],
+          "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%83%AD%E3%83%BC%E3%83%9E%E6%95%99%E7%9A%87%E9%81%B8%E6%8C%99"
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "2025년 콘클라베",
+          "badges": [],
+          "url": "https://ko.wikipedia.org/wiki/2025%EB%85%84_%EC%BD%98%ED%81%B4%EB%9D%BC%EB%B2%A0"
+        },
+        "lmowiki": {
+          "site": "lmowiki",
+          "title": "Conclav del 2025",
+          "badges": [],
+          "url": "https://lmo.wikipedia.org/wiki/Conclav_del_2025"
+        },
+        "ltwiki": {
+          "site": "ltwiki",
+          "title": "2025 m. konklava",
+          "badges": [],
+          "url": "https://lt.wikipedia.org/wiki/2025_m._konklava"
+        },
+        "mswiki": {
+          "site": "mswiki",
+          "title": "Konklaf kepausan 2025",
+          "badges": [],
+          "url": "https://ms.wikipedia.org/wiki/Konklaf_kepausan_2025"
+        },
+        "nlwiki": {
+          "site": "nlwiki",
+          "title": "Conclaaf van 2025",
+          "badges": [],
+          "url": "https://nl.wikipedia.org/wiki/Conclaaf_van_2025"
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Konklawe 2025",
+          "badges": [],
+          "url": "https://pl.wikipedia.org/wiki/Konklawe_2025"
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Conclave de 2025",
+          "badges": [],
+          "url": "https://pt.wikipedia.org/wiki/Conclave_de_2025"
+        },
+        "rowiki": {
+          "site": "rowiki",
+          "title": "Conclavul din 2025",
+          "badges": [],
+          "url": "https://ro.wikipedia.org/wiki/Conclavul_din_2025"
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "Конклав 2025 года",
+          "badges": [],
+          "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D0%BB%D0%B0%D0%B2_2025_%D0%B3%D0%BE%D0%B4%D0%B0"
+        },
+        "simplewiki": {
+          "site": "simplewiki",
+          "title": "2025 papal conclave",
+          "badges": [],
+          "url": "https://simple.wikipedia.org/wiki/2025_papal_conclave"
+        },
+        "skwiki": {
+          "site": "skwiki",
+          "title": "Konkláve 2025",
+          "badges": [],
+          "url": "https://sk.wikipedia.org/wiki/Konkl%C3%A1ve_2025"
+        },
+        "slwiki": {
+          "site": "slwiki",
+          "title": "Papeški konklave 2025",
+          "badges": [],
+          "url": "https://sl.wikipedia.org/wiki/Pape%C5%A1ki_konklave_2025"
+        },
+        "svwiki": {
+          "site": "svwiki",
+          "title": "Konklaven 2025",
+          "badges": [],
+          "url": "https://sv.wikipedia.org/wiki/Konklaven_2025"
+        },
+        "thwiki": {
+          "site": "thwiki",
+          "title": "การประชุมเลือกสันตะปาปา ค.ศ. 2025",
+          "badges": [],
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B0%E0%B8%9B%E0%B8%B2%E0%B8%9B%E0%B8%B2_%E0%B8%84.%E0%B8%A8._2025"
+        },
+        "tlwiki": {
+          "site": "tlwiki",
+          "title": "Konklabeng Pampapa ng 2025",
+          "badges": [],
+          "url": "https://tl.wikipedia.org/wiki/Konklabeng_Pampapa_ng_2025"
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Конклав 2025",
+          "badges": [],
+          "url": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D0%BB%D0%B0%D0%B2_2025"
+        },
+        "viwiki": {
+          "site": "viwiki",
+          "title": "Mật nghị Hồng y 2025",
+          "badges": [],
+          "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_ngh%E1%BB%8B_H%E1%BB%93ng_y_2025"
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "2025年教宗选举秘密会议",
+          "badges": [],
+          "url": "https://zh.wikipedia.org/wiki/2025%E5%B9%B4%E6%95%99%E5%AE%97%E9%80%89%E4%B8%BE%E7%A7%98%E5%AF%86%E4%BC%9A%E8%AE%AE"
+        }
+      }
+    }
+  }
+}
