@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2345810503,
-      "modified": "2025-05-07T20:48:14Z",
+      "lastrevid": 2345874702,
+      "modified": "2025-05-07T23:32:18Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -269,6 +269,12 @@
           {
             "language": "vi",
             "value": "Mật viện 2025"
+          }
+        ],
+        "en": [
+          {
+            "language": "en",
+            "value": "Ciro"
           }
         ]
       },
