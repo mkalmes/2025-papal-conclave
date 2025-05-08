@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2346161457,
-      "modified": "2025-05-08T18:29:20Z",
+      "lastrevid": 2346210470,
+      "modified": "2025-05-08T20:41:08Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -180,6 +180,10 @@
         "gl": {
           "language": "gl",
           "value": "conclave de 2025"
+        },
+        "lb": {
+          "language": "lb",
+          "value": "Konklav 2025"
         }
       },
       "descriptions": {
@@ -3378,6 +3382,26 @@
             "id": "Q133999044$dc533b43-4d94-ae28-2bf0-5da9c2295501",
             "rank": "normal"
           }
+        ],
+        "P1132": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1132",
+              "hash": "f9d354e61c27e69ecf1ecb4129ac8fdd06edd5e0",
+              "datavalue": {
+                "value": {
+                  "amount": "+133",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "id": "Q133999044$fd2b5731-45a6-89a4-72ba-f09b9329c983",
+            "rank": "normal"
+          }
         ]
       },
       "sitelinks": {
@@ -3449,9 +3473,9 @@
         },
         "fawiki": {
           "site": "fawiki",
-          "title": "مجمع انتخاب پاپ ۲۰۲۵",
+          "title": "کنکلاو ۲۰۲۵ پاپ",
           "badges": [],
-          "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D8%B9_%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8_%D9%BE%D8%A7%D9%BE_%DB%B2%DB%B0%DB%B2%DB%B5"
+          "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%86%DA%A9%D9%84%D8%A7%D9%88_%DB%B2%DB%B0%DB%B2%DB%B5_%D9%BE%D8%A7%D9%BE"
         },
         "fiwiki": {
           "site": "fiwiki",
