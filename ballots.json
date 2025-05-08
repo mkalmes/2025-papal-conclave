@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2346142132,
-      "modified": "2025-05-08T17:37:48Z",
+      "lastrevid": 2346161457,
+      "modified": "2025-05-08T18:29:20Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -176,12 +176,16 @@
         "oc": {
           "language": "oc",
           "value": "Conclave papal de 2025"
+        },
+        "gl": {
+          "language": "gl",
+          "value": "conclave de 2025"
         }
       },
       "descriptions": {
         "fr": {
           "language": "fr",
-          "value": "conclave prévu à la suite de la mort du pape François"
+          "value": "conclave ayant élu le pape Léon XIV"
         },
         "sk": {
           "language": "sk",
@@ -3312,6 +3316,44 @@
               "datatype": "time"
             },
             "type": "statement",
+            "qualifiers": {
+              "P4241": [
+                {
+                  "snaktype": "value",
+                  "property": "P4241",
+                  "hash": "799e5bf223351735e4a6bb5a7667d88b7fd45a2c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 55811955,
+                      "id": "Q55811955"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P421": [
+                {
+                  "snaktype": "value",
+                  "property": "P421",
+                  "hash": "031817761ff8a83bcfee2b632e5c088bd6fdff1d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 109522221,
+                      "id": "Q109522221"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P4241",
+              "P421"
+            ],
             "id": "Q133999044$14fece09-496d-f34b-8bbf-3defdb1ab83f",
             "rank": "normal"
           }
