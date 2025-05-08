@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2345918766,
-      "modified": "2025-05-08T02:10:36Z",
+      "lastrevid": 2345927798,
+      "modified": "2025-05-08T02:51:27Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -164,6 +164,10 @@
         "eu": {
           "language": "eu",
           "value": "2025eko konklabea"
+        },
+        "sr": {
+          "language": "sr",
+          "value": "Папска конклава из 2025."
         }
       },
       "descriptions": {
@@ -250,6 +254,10 @@
         "eu": {
           "language": "eu",
           "value": "aita santuaren hauteskundea"
+        },
+        "sr": {
+          "language": "sr",
+          "value": "избор наследника папе Фрање из 2025. године"
         }
       },
       "aliases": {
@@ -3490,6 +3498,12 @@
           "title": "Papeški konklave 2025",
           "badges": [],
           "url": "https://sl.wikipedia.org/wiki/Pape%C5%A1ki_konklave_2025"
+        },
+        "srwiki": {
+          "site": "srwiki",
+          "title": "Папска конклава из 2025.",
+          "badges": [],
+          "url": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%81%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D0%BA%D0%BB%D0%B0%D0%B2%D0%B0_%D0%B8%D0%B7_2025."
         },
         "svwiki": {
           "site": "svwiki",
