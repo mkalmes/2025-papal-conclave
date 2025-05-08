@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2345889666,
-      "modified": "2025-05-08T00:24:31Z",
+      "lastrevid": 2345918766,
+      "modified": "2025-05-08T02:10:36Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -3215,6 +3215,87 @@
             "id": "Q133999044$d744a254-45ab-b45b-179c-7731173d04f5",
             "rank": "normal"
           }
+        ],
+        "P5337": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5337",
+              "hash": "6196fda1a268f954f5c0f253fa1e351a0e005097",
+              "datavalue": {
+                "value": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0WkRFMFpHdHdkaElDWlc0b0FBUAE",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q133999044$b8a5399f-4f8f-8222-1c23-52e25004a426",
+            "rank": "normal"
+          }
+        ],
+        "P13484": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P13484",
+              "hash": "69047c1cca70b7eb7ff1d6c1e3d88c2198d08b59",
+              "datavalue": {
+                "value": "2025-pope-conclave",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P6760": [
+                {
+                  "snaktype": "value",
+                  "property": "P6760",
+                  "hash": "33f00aad77081a0b0f408013a301b5d44a98a488",
+                  "datavalue": {
+                    "value": "53907",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "7f0f56a9834bb38a1c352c738268319b332f292a",
+                  "datavalue": {
+                    "value": "2025 Pope Conclave",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ],
+              "P1552": [
+                {
+                  "snaktype": "value",
+                  "property": "P1552",
+                  "hash": "b76b8564371282f717acdb4bdb9d47cecb18fee9",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 116763049,
+                      "id": "Q116763049"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P6760",
+              "P1810",
+              "P1552"
+            ],
+            "id": "Q133999044$c7a2fdc5-4c9e-3ec3-d7d7-b2f24eec0547",
+            "rank": "normal"
+          }
         ]
       },
       "sitelinks": {
@@ -3424,9 +3505,9 @@
         },
         "tlwiki": {
           "site": "tlwiki",
-          "title": "Konklabeng Pampapa ng 2025",
+          "title": "Kongklabeng Pampapa ng 2025",
           "badges": [],
-          "url": "https://tl.wikipedia.org/wiki/Konklabeng_Pampapa_ng_2025"
+          "url": "https://tl.wikipedia.org/wiki/Kongklabeng_Pampapa_ng_2025"
         },
         "ukwiki": {
           "site": "ukwiki",
