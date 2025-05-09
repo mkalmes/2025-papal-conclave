@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2346504656,
-      "modified": "2025-05-09T12:50:52Z",
+      "lastrevid": 2346584438,
+      "modified": "2025-05-09T16:20:19Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -196,6 +196,10 @@
         "mt": {
           "language": "mt",
           "value": "konklav Papali tal-2025"
+        },
+        "gsw": {
+          "language": "gsw",
+          "value": "Konklaav im Mai 2025"
         }
       },
       "descriptions": {
@@ -302,6 +306,10 @@
         "mt": {
           "language": "mt",
           "value": "elezzjoni tas-suċċessur tal-Papa Franġisku fl-2025"
+        },
+        "gsw": {
+          "language": "gsw",
+          "value": "Papstwahl vom Noochfolger vom verstorbene Papst Franziskus"
         }
       },
       "aliases": {
