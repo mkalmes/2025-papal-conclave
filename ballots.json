@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2346228706,
-      "modified": "2025-05-08T21:25:15Z",
+      "lastrevid": 2346300569,
+      "modified": "2025-05-09T01:17:29Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -278,6 +278,14 @@
         "be": {
           "language": "be",
           "value": "выбары 267-га Папы Рымскага"
+        },
+        "pt-br": {
+          "language": "pt-br",
+          "value": "eleição do sucessor do Papa Francisco em 2025"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "eleição do sucessor do Papa Francisco em 2025"
         }
       },
       "aliases": {
@@ -297,6 +305,18 @@
           {
             "language": "vi",
             "value": "Mật viện 2025"
+          }
+        ],
+        "pt-br": [
+          {
+            "language": "pt-br",
+            "value": "conclave 2025"
+          }
+        ],
+        "pt": [
+          {
+            "language": "pt",
+            "value": "conclave 2025"
           }
         ]
       },
