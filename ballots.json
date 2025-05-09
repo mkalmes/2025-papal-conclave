@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2346300569,
-      "modified": "2025-05-09T01:17:29Z",
+      "lastrevid": 2346392179,
+      "modified": "2025-05-09T06:39:47Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -3592,6 +3592,12 @@
           "title": "Conclaaf van 2025",
           "badges": [],
           "url": "https://nl.wikipedia.org/wiki/Conclaaf_van_2025"
+        },
+        "nywiki": {
+          "site": "nywiki",
+          "title": "2025 papal conclave",
+          "badges": [],
+          "url": "https://ny.wikipedia.org/wiki/2025_papal_conclave"
         },
         "plwiki": {
           "site": "plwiki",
