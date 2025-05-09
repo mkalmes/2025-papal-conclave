@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2346403429,
-      "modified": "2025-05-09T07:21:10Z",
+      "lastrevid": 2346425505,
+      "modified": "2025-05-09T08:39:19Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -3566,6 +3566,12 @@
           "title": "2025년 콘클라베",
           "badges": [],
           "url": "https://ko.wikipedia.org/wiki/2025%EB%85%84_%EC%BD%98%ED%81%B4%EB%9D%BC%EB%B2%A0"
+        },
+        "lawiki": {
+          "site": "lawiki",
+          "title": "Conclave anni 2025",
+          "badges": [],
+          "url": "https://la.wikipedia.org/wiki/Conclave_anni_2025"
         },
         "lmowiki": {
           "site": "lmowiki",
