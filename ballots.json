@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2346392179,
-      "modified": "2025-05-09T06:39:47Z",
+      "lastrevid": 2346403429,
+      "modified": "2025-05-09T07:21:10Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -184,6 +184,10 @@
         "lb": {
           "language": "lb",
           "value": "Konklav 2025"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "المجمع المغلق 2025"
         }
       },
       "descriptions": {
