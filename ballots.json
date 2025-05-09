@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2346441142,
-      "modified": "2025-05-09T09:39:13Z",
+      "lastrevid": 2346453208,
+      "modified": "2025-05-09T10:16:23Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -191,7 +191,11 @@
         },
         "mk": {
           "language": "mk",
-          "value": "Конклава од 2025 г."
+          "value": "Папска конклава (2025)"
+        },
+        "mt": {
+          "language": "mt",
+          "value": "konklav Papali tal-2025"
         }
       },
       "descriptions": {
@@ -294,6 +298,10 @@
         "pt": {
           "language": "pt",
           "value": "eleição do sucessor do Papa Francisco em 2025"
+        },
+        "mt": {
+          "language": "mt",
+          "value": "elezzjoni tas-suċċessur tal-Papa Franġisku fl-2025"
         }
       },
       "aliases": {
@@ -325,6 +333,12 @@
           {
             "language": "pt",
             "value": "conclave 2025"
+          }
+        ],
+        "mk": [
+          {
+            "language": "mk",
+            "value": "Конклава од 2025 г."
           }
         ]
       },
@@ -3591,9 +3605,9 @@
         },
         "mkwiki": {
           "site": "mkwiki",
-          "title": "Конклава од 2025 г.",
+          "title": "Папска конклава (2025)",
           "badges": [],
-          "url": "https://mk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D0%BB%D0%B0%D0%B2%D0%B0_%D0%BE%D0%B4_2025_%D0%B3."
+          "url": "https://mk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%81%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D0%BA%D0%BB%D0%B0%D0%B2%D0%B0_(2025)"
         },
         "mswiki": {
           "site": "mswiki",
