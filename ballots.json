@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2346425505,
-      "modified": "2025-05-09T08:39:19Z",
+      "lastrevid": 2346441142,
+      "modified": "2025-05-09T09:39:13Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -188,6 +188,10 @@
         "ar": {
           "language": "ar",
           "value": "المجمع المغلق 2025"
+        },
+        "mk": {
+          "language": "mk",
+          "value": "Конклава од 2025 г."
         }
       },
       "descriptions": {
@@ -3584,6 +3588,12 @@
           "title": "2025 m. konklava",
           "badges": [],
           "url": "https://lt.wikipedia.org/wiki/2025_m._konklava"
+        },
+        "mkwiki": {
+          "site": "mkwiki",
+          "title": "Конклава од 2025 г.",
+          "badges": [],
+          "url": "https://mk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D0%BB%D0%B0%D0%B2%D0%B0_%D0%BE%D0%B4_2025_%D0%B3."
         },
         "mswiki": {
           "site": "mswiki",
