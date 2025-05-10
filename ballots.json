@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2346864683,
-      "modified": "2025-05-10T07:13:31Z",
+      "lastrevid": 2347087401,
+      "modified": "2025-05-10T17:00:17Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -314,6 +314,10 @@
         "lt": {
           "language": "lt",
           "value": "popiežiaus Pranciškaus įpėdinio rinkimai"
+        },
+        "da": {
+          "language": "da",
+          "value": "valget af pave Frans' efterfølger i 2025"
         }
       },
       "aliases": {
@@ -3692,6 +3696,12 @@
           "title": "Ive 2025 koŋklaav",
           "badges": [],
           "url": "https://smn.wikipedia.org/wiki/Ive_2025_ko%C5%8Bklaav"
+        },
+        "sqwiki": {
+          "site": "sqwiki",
+          "title": "Konklava papale e vitit 2025",
+          "badges": [],
+          "url": "https://sq.wikipedia.org/wiki/Konklava_papale_e_vitit_2025"
         },
         "srwiki": {
           "site": "srwiki",
