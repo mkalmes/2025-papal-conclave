@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2346678131,
-      "modified": "2025-05-09T20:43:09Z",
+      "lastrevid": 2346864683,
+      "modified": "2025-05-10T07:13:31Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -310,6 +310,10 @@
         "gsw": {
           "language": "gsw",
           "value": "Papstwahl vom Noochfolger vom verstorbene Papst Franziskus"
+        },
+        "lt": {
+          "language": "lt",
+          "value": "popiežiaus Pranciškaus įpėdinio rinkimai"
         }
       },
       "aliases": {
