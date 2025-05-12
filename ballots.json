@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2347087401,
-      "modified": "2025-05-10T17:00:17Z",
+      "lastrevid": 2347592650,
+      "modified": "2025-05-12T01:39:43Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -200,6 +200,38 @@
         "gsw": {
           "language": "gsw",
           "value": "Konklaav im Mai 2025"
+        },
+        "my": {
+          "language": "my",
+          "value": "၂၀၂၅ ခုနှစ် ပုပ်ရဟန်းမင်းကြီး ရွေးချယ်တင်မြှောက်ပွဲ"
+        },
+        "sq": {
+          "language": "sq",
+          "value": "Konklava papale e vitit 2025"
+        },
+        "ny": {
+          "language": "ny",
+          "value": "2025 papal conclave"
+        },
+        "tr": {
+          "language": "tr",
+          "value": "2025 papalık konklavı"
+        },
+        "la": {
+          "language": "la",
+          "value": "Conclave anni 2025"
+        },
+        "fa": {
+          "language": "fa",
+          "value": "کنکلاو ۲۰۲۵ پاپ"
+        },
+        "lmo": {
+          "language": "lmo",
+          "value": "Conclav del 2025"
+        },
+        "smn": {
+          "language": "smn",
+          "value": "Ive 2025 koŋklaav"
         }
       },
       "descriptions": {
