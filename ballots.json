@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2347621791,
-      "modified": "2025-05-12T04:03:47Z",
+      "lastrevid": 2347676706,
+      "modified": "2025-05-12T07:49:07Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -357,6 +357,14 @@
           {
             "language": "be-tarask",
             "value": "Папскі канкляў 2025 году"
+          },
+          {
+            "language": "be-tarask",
+            "value": "Папскі канкляў-2025"
+          },
+          {
+            "language": "be-tarask",
+            "value": "Канкляў-2025"
           }
         ],
         "nb": [
