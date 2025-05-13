@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2347850860,
-      "modified": "2025-05-12T17:47:01Z",
+      "lastrevid": 2348061642,
+      "modified": "2025-05-13T08:08:04Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -3499,6 +3499,69 @@
             "type": "statement",
             "id": "Q133999044$fd2b5731-45a6-89a4-72ba-f09b9329c983",
             "rank": "normal"
+          }
+        ],
+        "P8168": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8168",
+              "hash": "fd289f2bfa84d63afa964779267934e2feddbeb7",
+              "datavalue": {
+                "value": "Q1306320",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q133999044$29BA68B3-8AEB-4865-A42B-C15AB14D2A82",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "444f68123a5404c26a994e17b92b73881a9fbfd8",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "e4afc4ad60f2160201385d29d076e0794f815f1e",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 90405608,
+                          "id": "Q90405608"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "893d6b0aa2da84b5b9e4eba5031dbca6f69748ca",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-05-13T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
           }
         ]
       },
