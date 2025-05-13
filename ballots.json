@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2348061642,
-      "modified": "2025-05-13T08:08:04Z",
+      "lastrevid": 2348080882,
+      "modified": "2025-05-13T09:31:49Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -350,6 +350,10 @@
         "da": {
           "language": "da",
           "value": "valget af pave Frans' efterfølger i 2025"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "XIV. Leó pápát megválasztó konklávé"
         }
       },
       "aliases": {
@@ -395,6 +399,12 @@
           {
             "language": "mk",
             "value": "Конклава од 2025 г."
+          }
+        ],
+        "hu": [
+          {
+            "language": "hu",
+            "value": "2025-ös konklávé"
           }
         ]
       },
