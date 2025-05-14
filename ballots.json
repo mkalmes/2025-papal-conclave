@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2348080882,
-      "modified": "2025-05-13T09:31:49Z",
+      "lastrevid": 2348501456,
+      "modified": "2025-05-14T13:13:38Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -3572,6 +3572,46 @@
                 ]
               }
             ]
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "2debaf3b048acd9b66d8647334d696d3a2d44569",
+              "datavalue": {
+                "value": {
+                  "latitude": 41.903055555555554,
+                  "longitude": 12.454444444444444,
+                  "altitude": null,
+                  "precision": 0.0002777777777777778,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "id": "Q133999044$45070065-4eca-c59f-5980-38ce37b9c871",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "255ff0221cd4c2926ccc8a10369891bddb6d5d77",
+              "datavalue": {
+                "value": "Pape-Leon-XIV-Robert-Francis-Prevost-audience-medias-12-mai-2025.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q133999044$1e38b5bf-4376-d8a8-f8cc-3e024ca5753b",
+            "rank": "normal"
           }
         ]
       },
