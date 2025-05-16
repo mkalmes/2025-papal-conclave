@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2348501456,
-      "modified": "2025-05-14T13:13:38Z",
+      "lastrevid": 2348993554,
+      "modified": "2025-05-16T07:51:02Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -354,6 +354,10 @@
         "hu": {
           "language": "hu",
           "value": "XIV. Leó pápát megválasztó konklávé"
+        },
+        "th": {
+          "language": "th",
+          "value": "การประชุมเลือกสมเด็จพระสันตะปาปาแห่งคริสตจักรโรมันคาทอลิกครั้งที่ 267"
         }
       },
       "aliases": {
