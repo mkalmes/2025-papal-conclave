@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2348993554,
-      "modified": "2025-05-16T07:51:02Z",
+      "lastrevid": 2351572661,
+      "modified": "2025-05-23T13:21:07Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -3374,18 +3374,6 @@
                   "datatype": "external-id"
                 }
               ],
-              "P1810": [
-                {
-                  "snaktype": "value",
-                  "property": "P1810",
-                  "hash": "7f0f56a9834bb38a1c352c738268319b332f292a",
-                  "datavalue": {
-                    "value": "2025 Pope Conclave",
-                    "type": "string"
-                  },
-                  "datatype": "string"
-                }
-              ],
               "P1552": [
                 {
                   "snaktype": "value",
@@ -3401,12 +3389,24 @@
                   },
                   "datatype": "wikibase-item"
                 }
+              ],
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "7f0f56a9834bb38a1c352c738268319b332f292a",
+                  "datavalue": {
+                    "value": "2025 Pope Conclave",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
               ]
             },
             "qualifiers-order": [
               "P6760",
-              "P1810",
-              "P1552"
+              "P1552",
+              "P1810"
             ],
             "id": "Q133999044$c7a2fdc5-4c9e-3ec3-d7d7-b2f24eec0547",
             "rank": "normal"
