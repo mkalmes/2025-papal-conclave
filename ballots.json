@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2351572661,
-      "modified": "2025-05-23T13:21:07Z",
+      "lastrevid": 2358327632,
+      "modified": "2025-06-08T19:39:32Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -3401,12 +3401,32 @@
                   },
                   "datatype": "string"
                 }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "f5e376501d458ee4886a31bb07ef1776b89cf519",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-06-08T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
               ]
             },
             "qualifiers-order": [
               "P6760",
               "P1552",
-              "P1810"
+              "P1810",
+              "P585"
             ],
             "id": "Q133999044$c7a2fdc5-4c9e-3ec3-d7d7-b2f24eec0547",
             "rank": "normal"
