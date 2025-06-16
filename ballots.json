@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2362006687,
-      "modified": "2025-06-16T13:36:22Z",
+      "lastrevid": 2362135303,
+      "modified": "2025-06-16T18:13:14Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -358,6 +358,10 @@
         "th": {
           "language": "th",
           "value": "การประชุมเลือกสมเด็จพระสันตะปาปาแห่งคริสตจักรโรมันคาทอลิกครั้งที่ 267"
+        },
+        "he": {
+          "language": "he",
+          "value": "הליך לבחירת אפיפיור חדש שהחליף את פרנציסקוס,"
         }
       },
       "aliases": {
@@ -3635,6 +3639,26 @@
             },
             "type": "statement",
             "id": "Q133999044$1e38b5bf-4376-d8a8-f8cc-3e024ca5753b",
+            "rank": "normal"
+          }
+        ],
+        "P1705": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1705",
+              "hash": "1b372e282559d5d089178755e78a35c98a5b547f",
+              "datavalue": {
+                "value": {
+                  "text": "Conclave anni 2025",
+                  "language": "la"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q133999044$52724f8f-4364-e0b5-7aab-c31c5094b964",
             "rank": "normal"
           }
         ]
