@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2362135303,
-      "modified": "2025-06-16T18:13:14Z",
+      "lastrevid": 2363873685,
+      "modified": "2025-06-19T22:00:13Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -59,7 +59,7 @@
         },
         "ca": {
           "language": "ca",
-          "value": "Conclave de 2025"
+          "value": "conclave del 2025"
         },
         "zh": {
           "language": "zh",
@@ -232,6 +232,10 @@
         "smn": {
           "language": "smn",
           "value": "Ive 2025 koŋklaav"
+        },
+        "ast": {
+          "language": "ast",
+          "value": "cónclave de 2025"
         }
       },
       "descriptions": {
