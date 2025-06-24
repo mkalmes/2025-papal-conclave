@@ -4,14 +4,14 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2363873685,
-      "modified": "2025-06-19T22:00:13Z",
+      "lastrevid": 2367150214,
+      "modified": "2025-06-24T18:13:59Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
         "en": {
           "language": "en",
-          "value": "2025 papal conclave"
+          "value": "2025 conclave"
         },
         "ru": {
           "language": "ru",
@@ -417,6 +417,12 @@
           {
             "language": "hu",
             "value": "2025-ös konklávé"
+          }
+        ],
+        "en": [
+          {
+            "language": "en",
+            "value": "2025 papal conclave"
           }
         ]
       },
@@ -3634,9 +3640,9 @@
             "mainsnak": {
               "snaktype": "value",
               "property": "P18",
-              "hash": "255ff0221cd4c2926ccc8a10369891bddb6d5d77",
+              "hash": "8a648b37e531bd146a592c74f8fc3eca036bc3eb",
               "datavalue": {
-                "value": "Pape-Leon-XIV-Robert-Francis-Prevost-audience-medias-12-mai-2025.jpg",
+                "value": "Pope Leo XIV 3.jpg",
                 "type": "string"
               },
               "datatype": "commonsMedia"
