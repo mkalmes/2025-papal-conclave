@@ -4,8 +4,8 @@
       "pageid": 127869131,
       "ns": 0,
       "title": "Q133999044",
-      "lastrevid": 2367150214,
-      "modified": "2025-06-24T18:13:59Z",
+      "lastrevid": 2367300060,
+      "modified": "2025-06-25T00:02:16Z",
       "type": "item",
       "id": "Q133999044",
       "labels": {
@@ -3648,6 +3648,26 @@
               "datatype": "commonsMedia"
             },
             "type": "statement",
+            "qualifiers": {
+              "P2096": [
+                {
+                  "snaktype": "value",
+                  "property": "P2096",
+                  "hash": "e27b990ab27230ce041294a60ec70f6f32260054",
+                  "datavalue": {
+                    "value": {
+                      "text": "Première apparition du nouveau pape Léon XIV à l'issue du conclave.",
+                      "language": "fr"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2096"
+            ],
             "id": "Q133999044$1e38b5bf-4376-d8a8-f8cc-3e024ca5753b",
             "rank": "normal"
           }
